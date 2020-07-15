@@ -1,3 +1,9 @@
 This is another file, #2.
 Apple
-Batman or Batmobile 
+Ball, Batman or Batmobile 
+Cat
+Duck
+Elephant
+Falcon
+Gnatt
+Horse
