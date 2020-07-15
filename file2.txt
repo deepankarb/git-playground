@@ -2,3 +2,4 @@ This is another file, #2.
 Apple
 Ball, Batman or Batmobile 
 Cat
+Duck
