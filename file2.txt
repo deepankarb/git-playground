@@ -8,3 +8,4 @@ Falcon
 Gnatt
 Horse
 Non-conflicting change on master
+Jackal
